@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陈</title>
+</head>
+<body style="margin: 0;">
+   <div style="
+      max-width: 760px;   
+      margin: 30px auto;
+      padding: 15px;
+      line-height: 1.7;
+      ">
+    <tb><div style="text-align:center">
+     <h1>你好，这是一个个人网站</h1>
+     <p>视频站点集合</p> 
+     <img src="https://img1.baidu.com/it/u=1552803050,1155008584&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"s alt="pulpit rock" width="304" height="228">
+     <p>哔哩哔哩</p>
+     <a href="https://www.bilibili.com/">进入</a>
+     <p>腾讯视频</p>
+     <ahref="https://v.qq.com/">进入</a>
+     <p>爱奇艺</p>
+     <a href="http://www.iqiyi.com/">进入</a>
+     <p>优酷</p>
+     <a href="https://www.youku.com/">进入</a>
+     <p>抖音</p>
+     <a href="https://www.douyin.com">进入</a>
+    </div></tb>
+    </div>
+   <div style="
+     background-color: aqua;
+     text-align: center;
+     padding: 40px;
+     font-size: 12px; 
+     "
+ >
+     <p>注意：仅限个人使用</p>
+     
+    </div>
+</body>
+</html>
